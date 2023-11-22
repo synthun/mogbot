@@ -17,6 +17,6 @@ run the bot using `python bot.py`
 ## commands
 
 - `?mog (number)` sends a mog gif with the specified number
-- `?mog random'` sends a random mog gif
+- `?mog random` sends a random mog gif
 
 ![](https://tenor.com/view/mog29-mog-29-cat-gif-gif-20702330)
